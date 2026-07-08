@@ -2,9 +2,10 @@
  * @name MadpugsFocus
  * @author Madpugs
  * @description Automatically activates Do Not Disturb mode when a game is launched.
- * @version 1.6.4
+ * @version 1.6.5
  * @authorLink https://github.com/Norbit-Online
  * @source https://github.com/Norbit-Online/MadpugsFocus
+ * @updateUrl https://raw.githubusercontent.com/Norbit-Online/MadpugsFocus/main/MadpugsFocus.plugin.js
  * @website https://norbit.online
  */
 
