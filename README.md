@@ -1,39 +1,25 @@
-<!-- Banner: madpugs-focus-banner.png (same folder as this README) -->
-<!-- GitHub raw URL: https://raw.githubusercontent.com/Norbit-Online/MadpugsFocus/main/madpugs-focus-banner.png -->
-
+<!-- Banner + hero -->
 <div align="center">
-
-<img src="madpugs-focus-banner.png" width="465" alt="Madpugs Focus — Where Gaming Meets Code">
-
-# Madpugs Focus
-
-**Automatically switch Discord to Do Not Disturb when you're gaming — and back when you're done.**
-
-<br>
-
-<a href="https://github.com/Norbit-Online/MadpugsFocus/releases/latest/download/MadpugsFocus.plugin.js">
-  <img src="https://img.shields.io/badge/Download-v1.6.4-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Download v1.6.4">
-</a>
-&nbsp;
-<a href="https://discord.gg/33RDG7HcMm">
-  <img src="https://img.shields.io/discord/930870814415405097?label=Norbit.Online&logo=discord&color=5865F2" alt="Join Norbit.Online on Discord">
-</a>
-
-<br><br>
-
-<a href="https://github.com/Norbit-Online/MadpugsFocus/stargazers"><img src="https://img.shields.io/github/stars/Norbit-Online/MadpugsFocus?style=flat-square&logo=github&label=stars" alt="Stars"></a>
-<a href="https://github.com/Norbit-Online/MadpugsFocus/network/members"><img src="https://img.shields.io/github/forks/Norbit-Online/MadpugsFocus?style=flat-square&logo=github&label=forks" alt="Forks"></a>
-<a href="https://github.com/Norbit-Online/MadpugsFocus/releases"><img src="https://img.shields.io/github/downloads/Norbit-Online/MadpugsFocus/total?style=flat-square&label=downloads&color=1f6feb" alt="Downloads"></a>
-<img src="https://img.shields.io/badge/license-MIT-3fb950?style=flat-square" alt="License">
-<img src="https://img.shields.io/badge/platform-Windows-0078D6?style=flat-square" alt="Platform">
-<img src="https://img.shields.io/github/last-commit/Norbit-Online/MadpugsFocus?style=flat-square&label=updated" alt="Last updated">
-
-<br><br>
-
-<a href="https://betterdiscord.app">BetterDiscord</a> ·
-<a href="https://norbit.online">Norbit.Online</a> ·
-<a href="https://github.com/Norbit-Online/MadpugsFocus">GitHub</a>
-
+  <img src="madpugs-focus-banner.png" width="465" alt="Madpugs Focus — Where Gaming Meets Code">
+  <h1>Madpugs Focus</h1>
+  <p><strong>Automatically switch Discord to Do Not Disturb when you're gaming — and back when you're done.</strong></p>
+  <p>
+    <a href="https://github.com/Norbit-Online/MadpugsFocus/releases/latest/download/MadpugsFocus.plugin.js"><img src="https://img.shields.io/badge/Download-v1.6.4-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Download v1.6.4"></a>
+    <a href="https://discord.gg/33RDG7HcMm"><img src="https://img.shields.io/discord/930870814415405097?label=Norbit.Online&logo=discord&color=5865F2" alt="Join Norbit.Online on Discord"></a>
+  </p>
+  <p>
+    <a href="https://github.com/Norbit-Online/MadpugsFocus/stargazers"><img src="https://img.shields.io/github/stars/Norbit-Online/MadpugsFocus?style=flat-square&logo=github&label=stars" alt="Stars"></a>
+    <a href="https://github.com/Norbit-Online/MadpugsFocus/network/members"><img src="https://img.shields.io/github/forks/Norbit-Online/MadpugsFocus?style=flat-square&logo=github&label=forks" alt="Forks"></a>
+    <a href="https://github.com/Norbit-Online/MadpugsFocus/releases"><img src="https://img.shields.io/github/downloads/Norbit-Online/MadpugsFocus/total?style=flat-square&label=downloads&color=1f6feb" alt="Downloads"></a>
+    <img src="https://img.shields.io/badge/license-MIT-3fb950?style=flat-square" alt="License">
+    <img src="https://img.shields.io/badge/platform-Windows-0078D6?style=flat-square" alt="Platform">
+    <img src="https://img.shields.io/github/last-commit/Norbit-Online/MadpugsFocus?style=flat-square&label=updated" alt="Last updated">
+  </p>
+  <p>
+    <a href="https://betterdiscord.app">BetterDiscord</a> ·
+    <a href="https://norbit.online">Norbit.Online</a> ·
+    <a href="https://github.com/Norbit-Online/MadpugsFocus">GitHub</a>
+  </p>
 </div>
 
 ---
