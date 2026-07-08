@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Madpugs Focus — Where Gaming Meets Code](madpugs-focus-banner.png)
+<img src="madpugs-focus-banner.png" width="620" alt="Madpugs Focus — Where Gaming Meets Code">
 
 </div>
 
