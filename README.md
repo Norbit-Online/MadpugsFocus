@@ -21,8 +21,14 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/Norbit-Online/MadpugsFocus/stargazers"><img src="https://img.shields.io/github/stars/Norbit-Online/MadpugsFocus?style=flat&logo=github&label=stars" alt="Stars"></a>
+  <a href="https://github.com/Norbit-Online/MadpugsFocus/network/members"><img src="https://img.shields.io/github/forks/Norbit-Online/MadpugsFocus?style=flat&logo=github&label=forks" alt="Forks"></a>
+  <img src="https://img.shields.io/github/downloads/Norbit-Online/MadpugsFocus/total?style=flat&label=downloads&color=blue" alt="Downloads">
+  <img src="https://img.shields.io/github/last-commit/Norbit-Online/MadpugsFocus?style=flat&label=last%20commit" alt="Last commit">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/version-1.6.4-blue" alt="Version">
-  <img src="https://img.shields.io/github/downloads/Norbit-Online/MadpugsFocus/total?label=downloads&color=blue" alt="Downloads">
   <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
   <img src="https://img.shields.io/badge/platform-Windows-0078D6" alt="Platform">
 </p>
@@ -83,7 +89,9 @@ The plugin reads Discord's local activity store only. It does not scan your file
 
 ## Installation
 
-1. Download [`MadpugsFocus.plugin.js`](https://github.com/Norbit-Online/MadpugsFocus/releases/latest/download/MadpugsFocus.plugin.js) from the latest release (or copy from this repo).
+Download the plugin file from **[Releases](https://github.com/Norbit-Online/MadpugsFocus/releases/latest)** — not **Code → Download ZIP**. Only release downloads are counted on the badge above.
+
+1. Download [`MadpugsFocus.plugin.js`](https://github.com/Norbit-Online/MadpugsFocus/releases/latest/download/MadpugsFocus.plugin.js) from the latest release.
 2. In Discord, open **User Settings** → **BetterDiscord** → **Plugins**.
 3. Click **Open Plugins Folder**.
 4. Place `MadpugsFocus.plugin.js` in that folder.
