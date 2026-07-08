@@ -16,11 +16,13 @@
 <p align="center">
   <a href="https://betterdiscord.app">BetterDiscord</a> ·
   <a href="https://norbit.online">Norbit.Online</a> ·
+  <a href="https://discord.gg/33RDG7HcMm">Discord</a> ·
   <a href="https://github.com/Norbit-Online/MadpugsFocus">GitHub</a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.6.4-blue" alt="Version">
+  <img src="https://img.shields.io/github/downloads/Norbit-Online/MadpugsFocus/total?label=downloads&color=blue" alt="Downloads">
   <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
   <img src="https://img.shields.io/badge/platform-Windows-0078D6" alt="Platform">
 </p>
@@ -81,7 +83,7 @@ The plugin reads Discord's local activity store only. It does not scan your file
 
 ## Installation
 
-1. Download or copy [`MadpugsFocus.plugin.js`](./MadpugsFocus.plugin.js).
+1. Download [`MadpugsFocus.plugin.js`](https://github.com/Norbit-Online/MadpugsFocus/releases/latest/download/MadpugsFocus.plugin.js) from the latest release (or copy from this repo).
 2. In Discord, open **User Settings** → **BetterDiscord** → **Plugins**.
 3. Click **Open Plugins Folder**.
 4. Place `MadpugsFocus.plugin.js` in that folder.
