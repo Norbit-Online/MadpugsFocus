@@ -4,7 +4,7 @@
   <h1>Madpugs Focus</h1>
   <p><strong>Automatically switch Discord to Do Not Disturb when you're gaming — and back when you're done.</strong></p>
   <p>
-    <a href="https://github.com/Norbit-Online/MadpugsFocus/releases/latest/download/MadpugsFocus.plugin.js"><img src="https://img.shields.io/badge/Download-v1.6.5-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Download v1.6.5"></a>
+    <a href="https://github.com/Norbit-Online/MadpugsFocus/releases/latest/download/MadpugsFocus.plugin.js"><img src="https://img.shields.io/github/v/release/Norbit-Online/MadpugsFocus?style=for-the-badge&label=Download&logo=github&color=1f6feb" alt="Download latest release"></a>
   </p>
   <p>
     <a href="https://discord.gg/33RDG7HcMm"><img src="https://img.shields.io/discord/930870814415405097?style=flat-square&label=Norbit.Online&logo=discord&color=5865F2" alt="Join Norbit.Online on Discord"></a>
@@ -78,7 +78,7 @@ The plugin reads Discord's local activity store only. It does not scan your file
 
 ## Installation
 
-Use the **Download v1.6.5** button at the top — it pulls `MadpugsFocus.plugin.js` from [Releases](https://github.com/Norbit-Online/MadpugsFocus/releases/latest) and counts toward the download total. **Code → Download ZIP** does not count.
+Use the **Download** button at the top — it always pulls the latest `MadpugsFocus.plugin.js` from [Releases](https://github.com/Norbit-Online/MadpugsFocus/releases/latest) and counts toward the download total. **Code → Download ZIP** does not count.
 
 1. Download [`MadpugsFocus.plugin.js`](https://github.com/Norbit-Online/MadpugsFocus/releases/latest/download/MadpugsFocus.plugin.js).
 2. In Discord, open **User Settings** → **BetterDiscord** → **Plugins**.
