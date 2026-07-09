@@ -1,12 +1,14 @@
 /**
  * @name MadpugsFocus
  * @author Madpugs
- * @description Automatically activates Do Not Disturb mode when a game is launched.
- * @version 1.6.5
+ * @description Switches you to Do Not Disturb while you're in-game and restores your previous status when play activity ends. Supports popular launchers and platforms via tick boxes, and lets you add your own .exe files to the trigger list. If you find this useful, consider leaving a star on GitHub or supporting the project — every donation helps keep the code (and the Monster Energy) flowing. Report bugs via GitHub Issues.
+ * @version 1.6.6
+ * @invite 33RDG7HcMm
  * @authorLink https://github.com/Norbit-Online
  * @source https://github.com/Norbit-Online/MadpugsFocus
- * @updateUrl https://raw.githubusercontent.com/Norbit-Online/MadpugsFocus/main/MadpugsFocus.plugin.js
+ * @donate https://checkout.revolut.com/pay/36b04241-95ad-4a82-b2ec-7abecbb88b7c
  * @website https://norbit.online
+ * @updateUrl https://raw.githubusercontent.com/Norbit-Online/MadpugsFocus/main/MadpugsFocus.plugin.js
  */
 
 const ACTIVITY_TYPE_PLAYING = 0;
