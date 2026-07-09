@@ -1,0 +1,39 @@
+name: Feature request
+description: Suggest an idea for Madpugs Focus
+title: "[Feature]: "
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Have an idea? Describe what you'd like and why it would help.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does this solve?
+      description: e.g. "I always forget to..." or "When I play X, Y happens..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: What would you like to happen?
+      description: Describe the feature or behaviour you'd like
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Any workarounds you've tried?
+      placeholder: "Optional"
+
+  - type: input
+    id: plugin-version
+    attributes:
+      label: Plugin version (if relevant)
+      placeholder: "1.6.6"
