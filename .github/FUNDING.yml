@@ -1,0 +1,6 @@
+# Shows the "Sponsor" button on the GitHub repo page.
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
+
+custom:
+  - https://checkout.revolut.com/pay/36b04241-95ad-4a82-b2ec-7abecbb88b7c
+  - https://norbit.online
