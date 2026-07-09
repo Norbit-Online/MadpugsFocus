@@ -1,8 +1,8 @@
 /**
  * @name MadpugsFocus
  * @author Madpugs
- * @description Switches you to Do Not Disturb while you're in-game and restores your previous status when play activity ends. Supports popular launchers and platforms via tick boxes, and lets you add your own .exe files to the trigger list. If you find this useful, consider leaving a star on GitHub or supporting the project — every donation helps keep the code (and the Monster Energy) flowing. Report bugs via GitHub Issues.
- * @version 1.6.6
+ * @description Auto-enables Do Not Disturb when Discord detects you're playing, then restores your previous status when you stop. Launcher tick boxes and custom .exe trigger list.
+ * @version 1.6.7
  * @invite 33RDG7HcMm
  * @authorLink https://github.com/Norbit-Online
  * @source https://github.com/Norbit-Online/MadpugsFocus
