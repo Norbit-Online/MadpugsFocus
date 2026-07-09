@@ -45,7 +45,7 @@ No manual toggling. No missed work pings mid-match. No forgetting to switch back
 | **Ignored games** | Exclude game titles that should never trigger DND |
 | **On-screen toast** | Optional notification when DND activates (max once per minute) |
 | **Smart debounce** | Ignores brief activity flicker on quit (overlay shutdown, etc.) |
-| **Local only** | No auto-update URL, no external network calls, settings saved locally |
+| **Auto-updates** | Checks GitHub for new versions via `@updateUrl` |
 
 ---
 
@@ -136,6 +136,26 @@ It does **not** make external network requests, load remote scripts, or access f
 | DND didn't activate | Check ignored launchers / ignored games / exe whitelist settings |
 | Status flickers on quit | Normal for games with overlays — v1.6.3+ handles this with debounce + cooldown |
 | Multiple toasts | Expected on rapid flicker — limited to one per minute |
+
+Still stuck? Open a [GitHub Issue](https://github.com/Norbit-Online/MadpugsFocus/issues).
+
+---
+
+## Bugs & support
+
+**Report bugs:** [github.com/Norbit-Online/MadpugsFocus/issues](https://github.com/Norbit-Online/MadpugsFocus/issues)
+
+**Get help:** [Join Norbit.Online on Discord](https://discord.gg/33RDG7HcMm)
+
+---
+
+## Support the project
+
+If Madpugs Focus is useful to you:
+
+- **[Leave a star](https://github.com/Norbit-Online/MadpugsFocus/stargazers)** on GitHub — it helps others find the plugin
+- **[Donate](https://checkout.revolut.com/pay/36b04241-95ad-4a82-b2ec-7abecbb88b7c)** — every bit helps keep the code (and the Monster Energy) flowing
+- **Share it** with friends who game and work on the same machine
 
 ---
 
