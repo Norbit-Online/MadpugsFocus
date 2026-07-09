@@ -1,0 +1,94 @@
+name: Bug report
+description: Report something that isn't working correctly
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a bug. Please fill in as much as you can — it helps us fix issues faster.
+
+  - type: input
+    id: plugin-version
+    attributes:
+      label: Plugin version
+      description: Shown in BetterDiscord → Plugins (e.g. v1.6.6)
+      placeholder: "1.6.6"
+    validations:
+      required: true
+
+  - type: input
+    id: betterdiscord-version
+    attributes:
+      label: BetterDiscord version
+      description: User Settings → BetterDiscord → at the top of the page
+      placeholder: "e.g. 1.10.0"
+    validations:
+      required: true
+
+  - type: input
+    id: discord-version
+    attributes:
+      label: Discord version
+      description: User Settings → bottom of the sidebar (include Stable/PtB/Canary if known)
+      placeholder: "e.g. Stable 1.0.9xxx"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: os
+    attributes:
+      label: Operating system
+      options:
+        - Windows 11
+        - Windows 10
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What did you expect, and what actually happened?
+      placeholder: "Expected DND to restore after quitting the game, but stayed on DND..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: How can we reproduce this?
+      placeholder: |
+        1. Enable MadpugsFocus
+        2. Launch [game name]
+        3. Quit the game
+        4. Status stays on DND
+    validations:
+      required: true
+
+  - type: input
+    id: game
+    attributes:
+      label: Game or application
+      description: Name as shown in Discord, or the .exe if you know it
+      placeholder: "e.g. Elden Ring / eldenring.exe"
+
+  - type: textarea
+    id: settings
+    attributes:
+      label: Plugin settings
+      description: Launcher ignores ticked? Trigger exe whitelist? Ignored games?
+      placeholder: |
+        - Launcher ignores: Steam, Epic (ticked)
+        - Trigger exes: empty (any game)
+        - Ignored games: none
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: Console errors, screenshots, other plugins enabled, etc.
+      placeholder: "Optional — F12 console errors, other BD plugins enabled..."
