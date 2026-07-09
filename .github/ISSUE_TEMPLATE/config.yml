@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discord support
+    url: https://discord.gg/33RDG7HcMm
+    about: Ask questions or get help on the Norbit.Online Discord server.
+  - name: README & docs
+    url: https://github.com/Norbit-Online/MadpugsFocus#readme
+    about: Installation, settings, and troubleshooting.
